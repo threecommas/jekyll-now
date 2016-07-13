@@ -125,13 +125,13 @@ Excellent question.
 * If you need to buy a domain, Colorado's own [name.com](https://name.com) is a good one. So is [Hover](https://hover.com).
 
 1. [Add a custom domain to your Github pages site](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/).
-2. Follow this guide on [setting up an "apex" domains](https://help.github.com/articles/setting-up-an-apex-domain/). You'll need to interact with your domain provider as part of this. Some providers [have really good guides on how to do this](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages), like that one from [namecheap.com](namecheap.com).
+2. Follow this guide on [setting up an "apex" domains](https://help.github.com/articles/setting-up-an-apex-domain/). You'll need to interact with your domain provider as part of this. Some providers [have really good guides on how to do this](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages), like that one from [namecheap.com](https://www.namecheap.com).
 3. Be patient. It can take time for DNS settings to take hold around the world/Internet.
 
 ### I'm stuck. Help!?
 
 * Just ask! [Post a question here](https://github.com/threecommas/yourownwebsite/issues) or shoot me an email. Ask your favorite developer friend for help or to find out why something works the way it does.
-* Check [Meetup](meetup.com) for a local users group that may have covered Jekyll or may be hosting an event in the near future.
+* Check [Meetup](https://www.meetup.com) for a local users group that may have covered Jekyll or may be hosting an event in the near future.
 
 ### So, this is just plain HTML? Isn't that boring?
 
